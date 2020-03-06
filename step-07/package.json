@@ -26,5 +26,9 @@
   },
   "devDependencies": {
     "@pika/web": "^0.4.2"
+  },
+
+  "scripts":{
+    "start":"node ./step-07/index.html"
   }
 }
